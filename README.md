@@ -1,2 +1,2 @@
-# Survival-Analysis-
+# Survival-Analysis
 Churn data for Telecommunication Company
